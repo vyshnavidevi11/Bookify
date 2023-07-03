@@ -1,0 +1,66 @@
+body {  
+    width: 500px;  
+    margin: 0 auto;  
+    padding: 50px;  
+    background: url("../Images/reg-bg.jpeg"); 
+    height: 100vh;
+    background-size: cover;
+    background-position: center; 
+    box-shadow: -1px 4px 28px 0px rgba(0,0,0,0.75);
+    backdrop-filter: brightness(60%);
+  }  
+  div.elem-group {  
+    margin: 10px 0;
+    color: #fff; 
+  }
+    
+  div.elem-group.inlined {  
+    width: 49%;  
+    display: inline-block;  
+    float: left;  
+    margin-left: 1%;  
+  }  
+  label {  
+    display: block;  
+    font-family: 'Nanum Gothic';  
+    padding-bottom: 8px;  
+    font-size: 1em;  
+  }  
+
+  input {  
+    border-radius: 2px;  
+    border: 2px solid #777;  
+    box-sizing: border-box;  
+    font-size: 1em;  
+    font-family: 'Nanum Gothic';  
+    width: 100%;    
+  }    
+  textarea {  
+    border-radius: 2px;  
+    border: 2px solid #777;  
+    box-sizing: border-box;  
+    font-size: 1em;  
+    font-family: 'Nanum Gothic';  
+    width: 100%;  
+    padding: 2px;  
+  }  
+  div.elem-group.inlined input {  
+    width: 95%;  
+    display: inline-block;  
+  }    
+  textarea {  
+    height: 100px;  
+  }      
+  button {  
+    height: 50px;  
+    background: #27ae60;  
+    border: none;  
+    color: white;  
+    font-size: 1.25em;  
+    font-family: 'Nanum Gothic';  
+    border-radius: 4px;  
+    cursor: pointer;  
+  }  
+  button:hover {  
+    border: 2px solid white;  
+  } 
