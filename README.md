@@ -29,10 +29,10 @@
 ![Screenshot (84)](https://github.com/vyshnavidevi11/Bookify/assets/107797408/0f331099-d649-48b3-92ca-8ba1a1c829af)
 
 ### Technologies used:
-1.Html.
-2.css.
-3.Java script.
-4.Php.
+1. HTML.
+2. CSS
+3. Java script.
+4. Php.
 
 *Bookify goes beyond just facilitating transactions; it also serves as a community for book enthusiasts. Users can engage in discussions, share book recommendations, and connect with fellow readers who share similar interests. This fosters a sense of belonging and encourages meaningful interactions within the book-loving community.
 
