@@ -22,11 +22,13 @@
 ![Screenshot (80)](https://github.com/vyshnavidevi11/Bookify/assets/107797408/c928b92d-b86c-418e-9130-3f6f589e0dd5)
 
 ![Screenshot (81)](https://github.com/vyshnavidevi11/Bookify/assets/107797408/430ed179-e3db-41c1-9998-36917aabe8a7)
-
+#### Login Page:
 ![Screenshot (82)](https://github.com/vyshnavidevi11/Bookify/assets/107797408/efd62065-db09-4327-8c04-b7c4ab5cbc5f)
 
+#### Register page
 ![Screenshot (83)](https://github.com/vyshnavidevi11/Bookify/assets/107797408/cd4b6707-6ce1-47e0-a49a-5ddd57f4e865)
 
+#### Sell Page:
 ![Screenshot (84)](https://github.com/vyshnavidevi11/Bookify/assets/107797408/0f331099-d649-48b3-92ca-8ba1a1c829af)
 
 ### Technologies used:
