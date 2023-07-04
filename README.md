@@ -14,6 +14,7 @@
 *Reputation building based on successful transactions and feedback.
 
 ### Screenshots:
+#### Home Page:
 ![Screenshot (78)](https://github.com/vyshnavidevi11/Bookify/assets/107797408/f270adf7-1354-49cf-ad53-e475df9a24e2)
 
 ![Screenshot (79)](https://github.com/vyshnavidevi11/Bookify/assets/107797408/e49385ae-d3c6-4de9-b74f-57535f960c37)
